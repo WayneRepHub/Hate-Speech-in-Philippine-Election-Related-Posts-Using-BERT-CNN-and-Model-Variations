@@ -1,0 +1,13 @@
+Hi! A few Key Notes:
+
+- This system heavily relied on datasets from the previous authors (Arganosa et. al.) due to complications with X's (formerly Twitter) data retrieval, which now requires more than reasonable payment. So we took what we could get ^-^
+
+- The GitHub repository of the previous authors' study is below:
+
+https://github.com/kirbie27/Hate-Speech-in-Philippine-Election-Related-Tweets/tree/main
+
+- It is important to note that due to limited data, unbalanced keywords and 'weights' caused problems in the team's final results and analysis. It's your challenge, should you accept, to find a way around this (Goodluck!)
+
+- Refer to this study's conclusions and recommendations for more details regarding this issue.
+
+Wishing you the best of luck!
