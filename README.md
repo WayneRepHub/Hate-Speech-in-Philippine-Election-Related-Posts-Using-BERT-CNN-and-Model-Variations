@@ -5,3 +5,6 @@ A system implementation of the thesis titled "A Sentiment Analysis of Hate Speec
 * Mendoza, Micah Collette O.
 * Nadurata, Wayne Gabriel S.
 * Padlan, Joshua Mari L.
+
+# Thesis Adviser
+Charmaine S. Ponay, MCS
